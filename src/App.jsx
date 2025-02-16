@@ -58,14 +58,14 @@ function App() {
     {
       title: "Project 3",
       description: "Description of your third project",
-      demoLink: "https://your-project3-demo.com",
-      codeLink: "https://github.com/yourusername/project3",
+      demoLink: "https://minima-store-dhruv.netlify.app/",
+      codeLink: "https://github.com/DhruvsOLaNkiI/Minimal-store.git",
       images: [
         "/images/project3-1.jpg",
         "/images/project3-2.jpg",
         "/images/project3-3.jpg"
       ],
-      technologies: ["Next.js", "TypeScript", "Prisma"]
+      technologies: ["React js", "Tailwindcss", "Html"]
     }
     ,
     {
